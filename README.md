@@ -78,9 +78,6 @@ helm install my-release my-charts/nginx --set replicaCount=3
 ## Contributing
 Feel free to fork this repository and submit a pull request with improvements or new charts.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
-[Your Name](https://github.com/your-username)
-
+[Adith Mohan]
